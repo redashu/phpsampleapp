@@ -7,7 +7,7 @@
 <?php
 
 echo   "Hello world";
-echo   "now we are updating our website "
+echo   "now we are updating our website ";
 echo  phpinfo();
 
 
