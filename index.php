@@ -4,6 +4,7 @@
 </head>
 <body>
 <h1> Hello Kubernetres </h1>
+<h1> Hello Adhoc networks </h1>
 <?php
 
 echo   "Hello world";
